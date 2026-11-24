@@ -6,7 +6,11 @@
 
 I work across AI agents, retrieval-augmented generation, secure sandboxes, backend services, and web applications. I care about making systems useful, explainable, and dependable.
 
-[Portfolio](https://mohitkhajuria-jk.github.io/) · [LinkedIn](https://linkedin.com/in/mohitkhajuria) · [Email](mailto:contactmohitkhajuria@gmail.com)
+[Portfolio](https://mohitkhajuria-jk.github.io/) · [LinkedIn](https://linkedin.com/in/mohitkhajuria) · [X](https://twitter.com/_mohitkhajuria_) · [Email](mailto:contactmohitkhajuria@gmail.com)
+
+<a href="https://github.com/MohitKhajuria-jk">
+  <img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohitKhajuria-jk&query=%24.public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=0e75b6" />
+</a>
 
 </div>
 
@@ -14,10 +18,10 @@ I work across AI agents, retrieval-augmented generation, secure sandboxes, backe
 
 ## About
 
-- 🔭 Currently building **[ForgeOS](https://github.com/MohitKhajuria-jk/forgeos)**, a multi-agent developer platform that plans, builds, tests, and reviews code in an isolated sandbox.
+- 🔭 Building **[ForgeOS](https://github.com/MohitKhajuria-jk/forgeos)**, a multi-agent developer platform that plans, builds, tests, and reviews code in an isolated sandbox.
 - 🌱 Exploring agentic systems, live-data RAG, and practical AI security.
-- 🤝 Open to collaborating on thoughtful AI, healthcare research, and security projects.
-- 🧰 **Tools I use:** Python, FastAPI, React, TypeScript, Docker, and SQL.
+- 🤝 Open to collaborating on AI, healthcare research, and security projects.
+- 🧰 **Tools:** Python · FastAPI · React · TypeScript · Docker · SQL
 
 ## Featured projects
 
@@ -46,34 +50,34 @@ I work across AI agents, retrieval-augmented generation, secure sandboxes, backe
 
 ## GitHub analytics
 
-The overview includes public repository count, stars received, and contribution totals.
+<p align="center">
+  <a href="https://github.com/MohitKhajuria-jk">
+    <img height="180" alt="GitHub stats, including stars earned and contributions" src="https://github-stats-extended.vercel.app/api?username=MohitKhajuria-jk&show_icons=true&include_all_commits=true&show=all_time_contribs&theme_light=light_github&theme_dark=dark_github&hide_border=true" />
+  </a>
+  <a href="https://github.com/MohitKhajuria-jk">
+    <img height="180" alt="Most-used programming languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=MohitKhajuria-jk&layout=compact&langs_count=6&theme_light=light_github&theme_dark=dark_github&hide_border=true" />
+  </a>
+</p>
+
+## Contribution activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
-  <img alt="GitHub analytics: contributions, stars, repositories, and activity" src="./assets/profile-cards/overview.light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MohitKhajuria-jk&amp;theme=react-dark&amp;area=true&amp;hide_border=true" />
+  <img alt="Recent GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKhajuria-jk&amp;theme=github-compact&amp;area=true&amp;hide_border=true" width="100%" />
 </picture>
 
-## Contribution activity & streak
+## Contribution streak
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/contributions.dark.svg" />
-  <img alt="Contribution calendar with current and longest streaks" src="./assets/profile-cards/contributions.light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MohitKhajuria-jk&amp;theme=github-dark&amp;hide_border=true" />
+  <img alt="Current and longest GitHub contribution streak" src="https://streak-stats.demolab.com?user=MohitKhajuria-jk&amp;theme=github-light&amp;hide_border=true" width="100%" />
 </picture>
 
-## Contribution activity graph
+## Commit activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/momentum.dark.svg" />
-  <img alt="Contribution activity trend across the past year" src="./assets/profile-cards/momentum.light.svg" width="100%" />
-</picture>
-
-## Commit graph
-
-This chart shows when commits land across days of the week and hours of the day.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/cadence.dark.svg" />
-  <img alt="Commit activity by weekday and hour" src="./assets/profile-cards/cadence.light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohitKhajuria-jk&amp;theme=github_dark&amp;timeZone=Asia%2FKolkata" />
+  <img alt="GitHub commit activity by time of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohitKhajuria-jk&amp;theme=github&amp;timeZone=Asia%2FKolkata" width="100%" />
 </picture>
 
 <div align="center">
