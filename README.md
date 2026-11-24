@@ -1,36 +1,83 @@
-<h1 align="center">Hi 👋, I'm Mohit Khajuria</h1>
-<h3 align="center">Final-year Computer Science Engineering student with hands-on experience building and testing end-to-end AI systems, spanning LLM-powered agents, secure execution sandboxing, FastAPI backends, and React interfaces. Experienced in developing autonomous coding systems, live-data Retrieval-Augmented Generation (RAG) pipelines, and Security Operations (SecOps) solutions, with a focus on practical AI engineering, system reliability, and scalable application development.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkhajuria-jk&label=Profile%20views&color=0e75b6&style=flat" alt="mohitkhajuria-jk" /> </p>
+# Hi, I'm Mohit Khajuria 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitkhajuria-jk" alt="mohitkhajuria-jk" /></a> </p>
+### Computer Science Engineering student building practical AI systems
 
-- 🔭 I’m currently working on [ForgesOS](https://github.com/MohitKhajuria-jk/forgeos)
+I work across AI agents, retrieval-augmented generation, secure sandboxes, backend services, and web applications. I care about making systems useful, explainable, and dependable.
 
-- 🌱 I’m currently learning **Content Creation**
+[Portfolio](https://mohitkhajuria-jk.github.io/) · [LinkedIn](https://linkedin.com/in/mohitkhajuria) · [Email](mailto:contactmohitkhajuria@gmail.com)
 
-- 👯 I’m looking to collaborate on [ta-efl health](https://github.com/MohitKhajuria-jk/ta-efl-health)
+</div>
 
-- 🤝 I’m looking for help with [ta-efl health](https://github.com/MohitKhajuria-jk/ta-efl-health)
+---
 
-- 👨‍💻 All of my projects are available at [https://mohitkhajuria-jk.github.io/](https://mohitkhajuria-jk.github.io/)
+## About
 
-- 📫 How to reach me **contactmohitkhajuria@gmail.com**
+- 🔭 Currently building **[ForgeOS](https://github.com/MohitKhajuria-jk/forgeos)**, a multi-agent developer platform that plans, builds, tests, and reviews code in an isolated sandbox.
+- 🌱 Exploring agentic systems, live-data RAG, and practical AI security.
+- 🤝 Open to collaborating on thoughtful AI, healthcare research, and security projects.
+- 🧰 **Tools I use:** Python, FastAPI, React, TypeScript, Docker, and SQL.
 
-- ⚡ Fun fact **i am a quick learner**
+## Featured projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_mohitkhajuria_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mohitkhajuria_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohitkhajuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitkhajuria" height="30" width="40" /></a>
-<a href="https://instagram.com/mohit_._khajuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_._khajuria" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/MohitKhajuria-jk/forgeos">ForgeOS</a></h3>
+      <p>A team of AI agents plans and implements software changes, runs tests, and reviews the result inside an isolated Docker sandbox.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/MohitKhajuria-jk/ta-efl-health">TA-EFL Health</a></h3>
+      <p>A research prototype for trust-aware, explainable federated learning for healthcare risk prediction.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/MohitKhajuria-jk/threatlens-ai">ThreatLens AI</a></h3>
+      <p>A security operations tool that analyses logs, correlates suspicious activity into incidents, and supports investigations with cited evidence.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/MohitKhajuria-jk/agentic-rag-live-data">Agentic RAG with Live Data</a></h3>
+      <p>A retrieval-augmented assistant that searches connected Gmail and Notion sources and answers with source citations.</p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## GitHub analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitkhajuria-jk&show_icons=true&locale=en&layout=compact" alt="mohitkhajuria-jk" /></p>
+The overview includes public repository count, stars received, and contribution totals.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitkhajuria-jk&show_icons=true&locale=en" alt="mohitkhajuria-jk" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
+  <img alt="GitHub analytics: contributions, stars, repositories, and activity" src="./assets/profile-cards/overview.light.svg" width="100%" />
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhajuria-jk&" alt="mohitkhajuria-jk" /></p>
+## Contribution activity & streak
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/contributions.dark.svg" />
+  <img alt="Contribution calendar with current and longest streaks" src="./assets/profile-cards/contributions.light.svg" width="100%" />
+</picture>
+
+## Contribution activity graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/momentum.dark.svg" />
+  <img alt="Contribution activity trend across the past year" src="./assets/profile-cards/momentum.light.svg" width="100%" />
+</picture>
+
+## Commit graph
+
+This chart shows when commits land across days of the week and hours of the day.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/cadence.dark.svg" />
+  <img alt="Commit activity by weekday and hour" src="./assets/profile-cards/cadence.light.svg" width="100%" />
+</picture>
+
+<div align="center">
+
+Thanks for stopping by — explore more of my work on [GitHub](https://github.com/MohitKhajuria-jk) or my [portfolio](https://mohitkhajuria-jk.github.io/).
+
+</div>
